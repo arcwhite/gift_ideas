@@ -30,23 +30,23 @@ I am always down to spend some time with nice people and it really doesn't have 
 * Cheap picnic in a nice park
 * Chill BBQ times
 * Sea kayaking
-* Skydiving? Maybe? I'd be hecking scared
 * Whale watching
 * Camping trips
 * Creative retreat
 * Beginner's painting/drawing/sculpture lesson
 
+## Miscellaneous Nick-nacks
+
+* A Tankard, preferably metal or ceramic, maybe with [a custom leather wrap](https://www.etsy.com/listing/127243747/leather-tankard-wrap-plain-black-brown) if you want to get creative
+* A [nice dice tray](https://wyrmwoodgaming.com/product-category/products/dice-trays/)
+* [Yubikeys](https://www.yubico.com/) so I can set them up on various computers
+* Parts to [make a doorbell](https://www.technicallywizardry.com/diy-smart-doorbell-raspberry-pi/)
+
 ## Clothing
 
 I'm pretty set for clothes most of the time, but I really appreciate unusual custom or hand-made items.
 I once had a lightly stone-washed black shirt with three 'v's of colour just below the neck (purple, tan and grey) and
-it was my favorite for years. (Until it finally met its end, alas). I'm definitely interested in textures and colours
+it was my favorite for years. (Until it finally met its end). I'm definitely interested in textures and colours
 over printed pattern shirts if that helps?
 
 * Interesting shirts (Size large)
-* [A pair of harem pants like these?](https://www.etsy.com/au/listing/536188811/harem-pants-mens-festival-trousers-baggy) (sturdier materials preferred, blues are good)
-
-
-If possible please make sure the item is ethically sourced ;)
-
-## 
