@@ -13,12 +13,12 @@ If you think there's something I'd like or have expressed want for, feel free to
 
 I'd love it if you donated to any of the following charities on my behalf:
 
-[Australian Conservation Fund](https://www.acf.org.au/donate)
-[Doctors without borders](http://www.doctorswithoutborders.org/)
-[World Wildlife Fund](https://www.worldwildlife.org/) or their [Australian branch specifically](http://www.wwf.org.au/)
-[Fairgo Australia](http://fairgoaustralia.com/)
-[The Cathy Freeman Foundation](https://www.cathyfreemanfoundation.org.au/)
-[Wikipedia](https://wikimediafoundation.org/wiki/Ways_to_Give)
+- [Australian Conservation Fund](https://www.acf.org.au/donate)
+- [Doctors without borders](http://www.doctorswithoutborders.org/)
+- [World Wildlife Fund](https://www.worldwildlife.org/) or their [Australian branch specifically](http://www.wwf.org.au/)
+- [Fairgo Australia](http://fairgoaustralia.com/)
+- [The Cathy Freeman Foundation](https://www.cathyfreemanfoundation.org.au/)
+- [Wikipedia](https://wikimediafoundation.org/wiki/Ways_to_Give)
 
 There's probably a bunch of others I'd be happy for people to donate to in my name, but I'd ask that you double-check that
 the charity is ethical and ideally atheist or agnostic in its outlook. (You can skip, for example, [the](http://www.smh.com.au/comment/view-from-the-street/why-i-wont-be-supporting-the-salvation-army-this-christmas-20161207-gt5ohs.html) [Salvation Army](https://www.reddit.com/r/australia/comments/1f1vbm/dont_give_money_to_the_salvation_army_today_they/))
@@ -38,8 +38,8 @@ I am always down to spend some time with nice people and it really doesn't have 
 ## Miscellaneous Nick-nacks
 
 * A Tankard, preferably metal or ceramic, maybe with [a custom leather wrap](https://www.etsy.com/listing/127243747/leather-tankard-wrap-plain-black-brown) if you want to get creative
-* A [nice dice tray](https://wyrmwoodgaming.com/product-category/products/dice-trays/)
-* [Yubikeys](https://www.yubico.com/) so I can set them up on various computers
+* ~~A nice dice tray~~
+* ~~Yubikeys~~
 * Parts to [make a doorbell](https://www.technicallywizardry.com/diy-smart-doorbell-raspberry-pi/)
 
 ## Clothing
